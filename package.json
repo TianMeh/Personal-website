@@ -2,7 +2,7 @@
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "",
+  "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TianMeh/Personal-website"
+    "url": "git+https://github.com/cobidev/simplefolio"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TianMeh/Personal-website/issues"
+    "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "parcel": "^2.7.0",
